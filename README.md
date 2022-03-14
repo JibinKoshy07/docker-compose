@@ -5,4 +5,4 @@ Setup Wordpress with a single command using this docker compose script
 2. cd docker-compose
 3. $ docker-compose up -d
 
-This will start full Wordpress, PHPMYAdmin and MySql images and run them as per the configuration given in the docker-compose.yml file
+This will start full Wordpress, PHPmyAdmin and MySql images and run them as per the configuration given in the docker-compose.yml file
