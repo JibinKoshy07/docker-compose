@@ -1,7 +1,7 @@
 # docker-compose
 Setup Wordpress with a single command using this docker compose script
 
-1. git clone git@github.com:JibinKoshy07/docker-compose.git
+1. git clone https://github.com/JibinKoshy07/docker-compose.git
 2. cd docker-compose
 3. $ docker-compose up -d
 
